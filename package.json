@@ -1,0 +1,32 @@
+{
+  "name": "guru-polish-translation",
+  "version": "1.0.0",
+  "description": "Polskie tlumaczenie komponentu Guru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkonikpl/Guru-Polish-Translation.git"
+  },
+  "keywords": [
+    "translate",
+    "package",
+    "component",
+    "joomla",
+    "guru",
+    "rkonik"
+  ],
+  "author": "rKonik Rafał Kobyliński",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rkonikpl/Guru-Polish-Translation/issues"
+  },
+  "homepage": "https://github.com/rkonikpl/Guru-Polish-Translation#readme",
+  "dependencies": {
+    "del": "6.1.1",
+    "gulp": "4.0.2",
+    "gulp-zip": "5.1.0"
+  }
+}

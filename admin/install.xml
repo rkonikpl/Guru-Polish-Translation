@@ -1,0 +1,16 @@
+<extension version="3.9" client="administrator" type="language" method="upgrade">
+    <name>Polish Translate GURU (pl-PL)</name> <!-- New in 3.7.0: Use only latin ascii characters. -->
+    <tag>pl-PL</tag>
+    <version>1.0.0</version>
+    <creationDate>15/08/2022</creationDate>
+    <author>rKonik Rafał Kobyliński</author>
+    <authorEmail></authorEmail>
+    <authorUrl>rkonik.com</authorUrl>
+    <copyright>Copyright (C) 2021 rKonik Rafał Kobyliński and Open Source Matters, Inc. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <description>pl-PL site language</description>
+    <files>
+        <filename>pl-PL.com_guru.ini</filename>
+        <filename>pl-PL.com_guru.sys.ini</filename>
+    </files>
+</extension>
