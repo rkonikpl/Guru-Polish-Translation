@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="package" method="upgrade">
+    <name>Guru Polish Translation</name>
+    <packagename>GuruPL</packagename>
+    <version>1.0.0</version>
+    <creationDate>16/08/2022</creationDate>
+    <author>rKonik Rafał Kobyliński</author>
+    <authorEmail></authorEmail>
+    <authorUrl>rkonik.com</authorUrl>
+    <copyright>Copyright (C) 2021 rKonik Rafał Kobyliński and Open Source Matters, Inc. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <url></url>
+    <packager></packager>
+    <packagerurl></packagerurl>
+    <description><![CDATA[
+				   <div class="text-center span12">
+				   <h3>Polski Pakiet językowy dla komponentu GURU</h3>
+				   <p><span style="font-weight: normal">rKonik Rafał Kobyliński przeprowadził kompletne tłumaczenia modułu<br />Przygotowanie kosztuje wiele czasu i pracy.</span></p>
+				   <div class="alert alert-info">
+				   <h3>Jesteś zadowolony z tłumaczenia, Pakiet się przydał i zaoszczędził tobie wiele czasu.</h3>
+				   <p>&nbsp;</p>
+				   <H1>Dziękujemy</h1>
+				   </div>
+				   </div>
+				   ]]></description>
+    <!--    <blockChildUninstall>true</blockChildUninstall> &lt;!&ndash; New in 3.7.0: zapobiega odinstalowaniu osobno części witryny lub części administracyjnych . &ndash;&gt;-->
+
+    <files>
+        <file type="language" client="site" id="pl-PL">site_pl-PL.zip</file>
+        <file type="language" client="administrator" id="pl-PL">admin_pl-PL.zip</file>
+    </files>
+
+</extension>
